@@ -1,0 +1,10 @@
+# Site settings
+title: Just another random blog
+author: Tiago Ferreira
+email: tiagodsferreira@gmail.com
+description: "This is my new blog"
+github_username: tiagodsferreira
+
+# Build settings
+theme: minima
+markdown: kramdown

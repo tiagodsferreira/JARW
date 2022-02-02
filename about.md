@@ -1,11 +1,15 @@
 ---
-layout: page  
-title: About 
+layout: page
+title: About
 ---
-This in an about page about the site
 
-This is just a test:
-- for testing
-- because we can
+Some Markdown content describing your site.
 
-## other thoughts
+## About About Pages
+
+The About page is a common convention found on websites.
+It is your opportunity to let us know all the details "about" your project:
+
+- focus and topic area
+- people involved
+- code and projects used

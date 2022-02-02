@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-Neste blog irei postar os conteudos desenvolvidos no ambito das uc de estatística e metodologia em que participo....
+Neste blog irei postar os conteúdos desenvolvidos no âmbito das uc de estatística e metodologia em que participo....
 
 ## Introdução ao R
 

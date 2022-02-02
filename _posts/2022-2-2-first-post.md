@@ -17,6 +17,8 @@ Code can be highlighted with `backticks`.
 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
+Hyperlinks look like this [logsem](https://github.com/tiagodsferreira/Longitudinal_SEM/blob/main/LongSEM_Pres/LongSEM_pt.html).
+
 A bullet list is created using `*`, `+`, or `-`, like:
 
 - dog

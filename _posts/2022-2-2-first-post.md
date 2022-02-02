@@ -17,7 +17,7 @@ Code can be highlighted with `backticks`.
 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
-Hyperlinks look like this [logsem](https://github.com/tiagodsferreira/Longitudinal_SEM/blob/main/LongSEM_Pres/LongSEM_pt.html).
+Hyperlinks look like this [logsem](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/tiagodsferreira/R_crash_course/blob/effb3f100b5d3a415f040cf58aaabdc4604b6665/R crash course_Pres/R-crash-course_PT.html).
 
 A bullet list is created using `*`, `+`, or `-`, like:
 

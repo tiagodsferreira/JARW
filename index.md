@@ -2,4 +2,6 @@
 layout: home 
 ---
 
-Welcome to my new blog!
+Welcome to my webpage!
+
+My first post was just released. Enjoy!

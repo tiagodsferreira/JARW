@@ -5,19 +5,18 @@ tags: Genetic Testing; GPRI; Screening; Validation
 categories: demo
 ---
 
-The GPRI is a screening instrument used by genetic-health professionals to identify genetic testing applicants who may need additional psychosocial support. This study presents the adaptation and validation process of the GPRI.
+The GPRI is a screening instrument used by genetic-health professionals to identify genetic testing applicants who may need additional psychosocial support. In this post I present the adaptation and validation process of the GPRI.
 
-## The [analysis](https://github.com/tiagodsferreira/together_repo/blob/main/GPRI_syntax.R) include:
+## The analysis [(see here)](https://github.com/tiagodsferreira/together_repo/blob/main/GPRI_syntax.R) include:
 - Missing data analysis
 - Descriptive statistics;  
 - Confirmatory Factor Analysis; 
 - Reliability analysis
 - Convergent validity; 
 
-
 ## Results overview
 The GPRI three-factor structure was confirmed. Two GPRI factors exhibited good internal consistency, but one factor (Personal/family history of/Loss to Cancer) showed problems in internal consistency, discriminant, and convergent validity. 
 
-*NOTE:* The manuscript (Gomes et al., under review) reporting these analysis is currently under peer review
+*NOTE:* The manuscript (Gomes et al., under review) reporting these analysis is currently under peer review.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6106770.svg)](https://doi.org/10.5281/zenodo.6106770)

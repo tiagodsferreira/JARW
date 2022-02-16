@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: New releases
 title: GPRI validation study
 tags: Genetic Testing; GPRI; Screening; Validation
 categories: demo

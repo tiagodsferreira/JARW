@@ -1,6 +1,4 @@
 # Site settings
-plugins:
-  - jekyll-feed
 title: Just another random webpage
 name: Just another random webpage
 author: Tiago Ferreira

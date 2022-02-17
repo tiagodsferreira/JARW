@@ -6,6 +6,9 @@ email: tiagodsferreira@gmail.com
 description: "This is my personal webpage! Stay tuned for releases with new data analysis tutorials and code."
 github_username: tiagodsferreira
 url: https://tiagodsferreira.github.io/JARW/
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
 
 # Build settings
 theme: minima

@@ -1,12 +1,11 @@
 # Site settings
+plugins:
+  - jekyll-feed
 title: Just another random webpage
 author: Tiago Ferreira
 email: tiagodsferreira@gmail.com
 description: "This is my personal webpage! Stay tuned for releases with new data analysis tutorials and code."
 github_username: tiagodsferreira
-
-plugins:
-  - jekyll-feed
 
 # Build settings
 theme: minima

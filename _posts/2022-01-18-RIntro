@@ -1,1 +1,13 @@
+---
+layout: post
+title: A (very) short introduction to R 
+tags: R programming; RStudio; Operators and objects; Data structures
+categories: demo
+---
 
+This course provides a short introduction to R programming language. The course covers the following topics: 
+- **R and Rstudio basic functioning**  
+- **Operators and objects**  
+- **Data structures**  
+- **Built-in functions for basic statistics**
+- **Useful packages**

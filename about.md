@@ -9,10 +9,3 @@ I’m a professor at the Faculty of Psychology and Educational Sciences of the U
 
 ## Purpose of this webpage
 This webpage will be used to post my class materials and code developed for conducting my research.
-
-
-## Stay updated
-
-You can subscribe to my RSS feed to get the latest posts and tutorials:
-
-[📡 Subscribe via RSS](https://tiagodsferreira.github.io/JARW/feed.xml)

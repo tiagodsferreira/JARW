@@ -4,9 +4,8 @@ title: About
 ---
 
 # Who am I?
-I'm a ressearcher at the The Center for Psychology at University of Porto (CPUP). I recently completed my Ph.D. in Psychology at the University of Porto, Portugal. My research focuses on the contributions of family and school relationships to socioemotional development during early childhood. I've been also acquiring advanced training in statistics and data analyses. My areas of expertise includes psychometrics (e.g., measurement invariance and multitrait-multimethod analysis), and longitudinal data analysis.
 
-I'm involved in several researcher projects and been contributing to [publications](https://www.researchgate.net/profile/Tiago_Ferreira5/research) in national and international peer-reviewed journals. I also been serving has statistical consultant research projects in the fields of child development, family studies, and early childhood education. I've also been responsible for given R introduction workshops and advanced courses in multilevel and longitudinal data analysis at the University of Porto, Faculty of Psychology and Education Sciences. 
+I’m a professor at the Faculty of Psychology and Educational Sciences of the University of Porto (FPCEUP), where I also completed my Ph.D. in Psychology. My research focuses on socio-emotional development in childhood, the role of family and school relationships, and how skills like empathy and prosocial behavior contribute to the development of ecological awareness in children and adolescents. In parallel, I specialize in applied statistics and data analysis, with expertise in psychometrics, structural equation modeling, longitudinal and multilevel modeling, and machine learning. I enjoy teaching and have led R workshops and advanced courses in data analysis for the social sciences. I'm involved in several research projects and have been contributing to [publications](https://www.researchgate.net/profile/Tiago_Ferreira5/research) in national and international peer-reviewed journals. 
 
 ## Purpose of this webpage
 This webpage will be used to post my class materials and code developed for conducting my research.

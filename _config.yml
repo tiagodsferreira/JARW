@@ -1,16 +1,25 @@
 # Site settings
+title: "Just another random webpage"
+name: "Just another random webpage"
+author: "Tiago Ferreira"
+email: "tiagoferreira@fpce.up.pt"
+description: "This is my personal webpage! Stay tuned for releases with new data analysis tutorials and code."
+github_username: "tiagodsferreira"
+
+# URL settings
+url: "https://tiagodsferreira.github.io"   # main domain (no trailing slash, no project name)
+baseurl: "/JARW"                           # repo/project name
+
+# Plugins
 plugins:
   - jekyll-feed
-title: Just another random webpage
-name: Just another random webpage
-author: Tiago Ferreira
-email: tiagoferreira@fpce.up.pt
-description: "This is my personal webpage! Stay tuned for releases with new data analysis tutorials and code."
-github_username: tiagodsferreira
-url: https://tiagodsferreira.github.io/JARW/
-feed_items: 10
-feed_update_period: daily
-feed_update_frequency: 1
+
+# Feed settings
+feed:
+  path: feed.xml
+  limit: 10
+  update_period: daily
+  update_frequency: 1
 
 # Build settings
 theme: minima

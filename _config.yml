@@ -7,8 +7,8 @@ description: "This is my personal webpage! Stay tuned for releases with new data
 github_username: "tiagodsferreira"
 
 # URL settings
-url: "https://tiagodsferreira.github.io"   # main domain (no trailing slash, no project name)
-baseurl: "/JARW"                           # repo/project name
+url: "https://tiagodsferreira.github.io"  # the GitHub Pages domain (no trailing slash)
+baseurl: "/JARW"                          # the repository name (with leading slash)
 
 # Plugins
 plugins:

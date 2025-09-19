@@ -9,3 +9,9 @@ This space is where I share my teaching materials, code, and resources that I de
 My work sits at the intersection of psychology, education, and data science—ranging from socio-emotional development in children to advanced statistical modeling and machine learning. I use this webpage as a hub to make my work more accessible, whether you’re a student, researcher, or just curious about the topics I study.
 
 Feel free to explore, use the materials, and check out my latest updates. My first post is already live — enjoy!
+
+
+
+The RSS feed allows you to get notified whenever I post new tutorials, research updates, or code.  
+
+- Clicking the **Subscribe via RSS** button above will open the feed URL:

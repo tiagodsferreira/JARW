@@ -12,6 +12,6 @@ Feel free to explore, use the materials, and check out my latest updates. My fir
 
 
 
-The RSS feed allows you to get notified whenever I post new tutorials, research updates, or code.  
+The RSS feed allows you to get notified whenever I post new tutorials, research updates, or code.
 
-- Clicking the **Subscribe via RSS** button above will open the feed URL:
+{% include rss-subscribe.html %}

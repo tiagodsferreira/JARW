@@ -17,10 +17,22 @@ plugins:
 # Feed settings
 feed:
   path: feed.xml
-  limit: 10
-  update_period: daily
-  update_frequency: 1
 
 # Build settings
 theme: minima
 markdown: kramdown
+
+# Performance optimizations
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - .git/
+  - .gitignore
+
+# Limit posts in development
+limit_posts: 0  # 0 means no limit; set to a number during development for faster builds
+
+# Incremental build (faster rebuilds during development)
+incremental: true

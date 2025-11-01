@@ -8,6 +8,7 @@ gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 gem "rss" if RUBY_VERSION >= "3.0.0"
 
 gem 'jekyll-feed'
+gem 'minima'
 
 install_if -> { Gem.win_platform? } do
   gem "tzinfo", "~> 1.2"

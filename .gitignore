@@ -1,0 +1,27 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+vendor/
+.bundle/
+Gemfile.lock
+
+# Ruby version files
+.ruby-version
+.ruby-gemset
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Testing gemspec (temporary)
+jarw.gemspec
